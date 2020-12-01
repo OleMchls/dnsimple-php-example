@@ -1,5 +1,7 @@
 {
     "name": "ole/dnsimple-php-example",
     "type": "project",
-    "require": {}
+    "require": {
+        "dnsimple/dnsimple": "^0.1.0"
+    }
 }
